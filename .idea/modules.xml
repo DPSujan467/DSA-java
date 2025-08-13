@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2D_Arrys/2D_Arrys.iml" filepath="$PROJECT_DIR$/2D_Arrys/2D_Arrys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA.iml" filepath="$PROJECT_DIR$/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting Algorithm/Sorting Algorithm.iml" filepath="$PROJECT_DIR$/Sorting Algorithm/Sorting Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrys_2/arrys_2.iml" filepath="$PROJECT_DIR$/arrys_2/arrys_2.iml" />
+    </modules>
+  </component>
+</project>
