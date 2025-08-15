@@ -16,7 +16,7 @@ public class MergeSort {
 
         for (int i = 0; i < n1; i++) { //l → starting index of the left portion in arr
             left[i] = arr[l + i];     // i → loop counter
-        }                            //n1 → number of elements in the left half (mid - l + 1
+        }                            //n1 → number of elements in the left half (mid - l + 1)
 
         for (int j = 0; j < n2; j++) {       //mid + 1 → starting index of the right portion in arr
             right[j] = arr[mid + 1 + j];    //j → loop counter
